@@ -4,7 +4,7 @@ This project is a lightweight screen recorder coded in Python. My goal with this
 The project was started by Marcin Jacek Chmiel on March 15th, 2025.
 # How to use
 Once the app window opens, input file paths for file saving places like this:
-<br>C:\Users\User\Videos\videoname.mp4</br>
+<br>C:\Users\User\Videos\videoname.mp4
 <br>C:\Users\User\Videos\audioname.wav</br>
 AND NOT:
 <br>"C:\Users\User\Videos\videoname.mp4"</br>
