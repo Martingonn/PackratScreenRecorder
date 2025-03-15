@@ -9,6 +9,7 @@ Once the app window opens, input file paths for file saving places like this:
 AND NOT:
 <br>"C:\Users\User\Videos\videoname.mp4"
 <br>"C:\Users\User\Videos\audioname.wav"</br>
+
 Press "Record" to start recording. Press "Stop" to stop recording, then press "Save" if you want to save the video files.
 # Future additions
 -combine audio and video together,
