@@ -1,4 +1,4 @@
-# What is it
+# What is it?
 This project is a lightweight screen recorder coded in Python. My goal with this is to make a screen recorder for Windows XP x32, as I have not found such a recorder myself.
 # Creators
 The project was started by Marcin Jacek Chmiel on March 15th, 2025.
