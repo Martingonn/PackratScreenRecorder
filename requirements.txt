@@ -1,6 +1,2 @@
-pyaudio
-wave
-tkinter
-pyautogui
-opencv-python
-numpy
+beautifulsoup4
+requests
