@@ -1,7 +1,7 @@
 # What is it?
 This project is a lightweight screen recorder coded in Python. My goal with this is to make a screen recorder for Windows XP x32, as I have not found such a recorder myself.
 # Creators
-The project was started by Marcin Jacek Chmiel on March 15th, 2025.
+The project was started by Marcin Jacek Chmiel on March 15th, 2025. Right now, there are no other contributors.
 # How to use
 Once the app window opens, input file paths for file saving places like this:
 <br>C:\Users\User\Videos\videoname.mp4
@@ -23,3 +23,7 @@ Press "Record" to start recording. Press "Stop" to stop recording, then press "S
 -save path and file name seperately,
 -streaming,
 -for streaming: adding in background image and music (like "brb" screen)
+
+# Contact
+
+If you have any suggestions or errors to report, write in at martingonn.dev@outlook.com!
