@@ -1,0 +1,6 @@
+pyaudio
+wave
+tkinter
+pyautogui
+opencv-python
+numpy
