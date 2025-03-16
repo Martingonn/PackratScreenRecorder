@@ -1,2 +1,4 @@
-beautifulsoup4
-requests
+pyaudio
+opencv-python
+numpy
+pyautogui
