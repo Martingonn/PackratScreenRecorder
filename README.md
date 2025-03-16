@@ -30,4 +30,4 @@ If you have any suggestions or errors to report, write in at martingonn.dev@outl
 
 # Downloads
 
-![GitHub All Releases](https://img.shields.io/github/downloads/Martingonn/Packrat-Screen-Recorder/total)
+![GitHub All Releases](https://img.shields.io/github/downloads/Martingonn/PackratScreenRecorder/total)
