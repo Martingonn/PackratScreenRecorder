@@ -27,3 +27,7 @@ Press "Record" to start recording. Press "Stop" to stop recording, then press "S
 # Contact
 
 If you have any suggestions or errors to report, write in at martingonn.dev@outlook.com!
+
+# Downloads
+
+![GitHub All Releases](https://img.shields.io/github/downloads/Martingonn/Packrat-Screen-Recorder/total)
