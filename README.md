@@ -18,11 +18,14 @@ Press "Record" to start recording. Press "Stop" to stop recording, then press "S
 -colored buttons,
 -compile for Windows XP x32,
 -compile for Windows XP x64,
--(maybe) other old Windows versions,
+-(maybe) compile for other old Windows versions,
 -more file output formats,
 -save path and file name seperately,
 -streaming,
--for streaming: adding in background image and music (like "brb" screen)
+-for streaming: adding in background image and music (like "brb" screen),
+-add resolution choice (720p, 1080p, less...),
+-add way to record specific windows,
+-video recording preview before you press "record"
 
 # Contact
 
