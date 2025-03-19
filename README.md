@@ -12,20 +12,20 @@ AND NOT:
 
 Press "Record" to start recording. Press "Stop" to stop recording, then press "Save" if you want to save the video files.
 # Future additions
--combine audio and video together,
--recording start and end sounds,
--settings with "Save by default" setting,
--colored buttons,
--compile for Windows XP x32,
--compile for Windows XP x64,
--(maybe) compile for other old Windows versions,
--more file output formats,
--save path and file name seperately,
--streaming,
--for streaming: adding in background image and music (like "brb" screen),
--add resolution choice (720p, 1080p, less...),
--add way to record specific windows,
--video recording preview before you press "record"
+<br>-combine audio and video together,
+<br>-recording start and end sounds,
+<br>-settings with "Save by default" setting,
+<br>-colored buttons,
+<br>-compile for Windows XP x32,
+<br>-compile for Windows XP x64,
+<br>-(maybe) compile for other old Windows versions,
+<br>-more file output formats,
+<br>-save path and file name seperately,
+<br>-streaming,
+<br>-for streaming: adding in background image and music (like "brb" screen),
+<br>-add resolution choice (720p, 1080p, less...),
+<br>-add way to record specific windows,
+<br>-video recording preview before you press "record"
 
 # Contact
 
